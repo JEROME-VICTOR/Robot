@@ -1,6 +1,4 @@
-# Getting Started with React Robot App
-
-## Available Scripts
+# Getting Started with Robot App (REACT)
 
 In the project directory, you can run:
 
